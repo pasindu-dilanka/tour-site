@@ -1,0 +1,8 @@
+{
+  "name": "my-lanka-tour",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"dev":"next dev", "build":"next build", "start":"next start", "lint":"next lint"},
+  "dependencies": {"@hookform/resolvers":"^3.10.0", "framer-motion":"^12.23.0", "lucide-react":"^0.468.0", "next":"^15.5.0", "next-themes":"^0.4.4", "react":"^19.1.0", "react-dom":"^19.1.0", "react-hook-form":"^7.62.0", "zod":"^3.25.0"},
+  "devDependencies": {"@types/node":"^22.15.0", "@types/react":"^19.1.0", "@types/react-dom":"^19.1.0", "autoprefixer":"^10.4.21", "postcss":"^8.5.6", "tailwindcss":"^3.4.17", "typescript":"^5.8.3"}
+}
