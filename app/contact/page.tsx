@@ -27,10 +27,6 @@ export default function ContactPage() {
           <aside className="contact-info">
             <h2>Contact details</h2>
             <p>
-              Replace the sample business details in <code>data/config.ts</code>{" "}
-              with your real contact information before publishing.
-            </p>
-            <p>
               <MapPin size={17} /> {siteConfig.location}
             </p>
             <Link href={`mailto:${siteConfig.email}`}>

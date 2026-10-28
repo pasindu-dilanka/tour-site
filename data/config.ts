@@ -5,7 +5,7 @@ export const siteConfig = {
     "Discover Sri Lanka with private transportation, tailor-made tours, wildlife safaris, whale watching and airport transfers.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://example.com",
   whatsapp: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "94771751899",
-  email: process.env.NEXT_PUBLIC_BUSINESS_EMAIL || "hello@example.com",
+  email: process.env.NEXT_PUBLIC_BUSINESS_EMAIL || "pasindu.dilanka98@gmail.com",
   phone: "+94 77 175 1899",
   location: "Sri Lanka",
   nav: [

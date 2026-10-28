@@ -4,6 +4,7 @@ import { WhyChooseUs } from "@/components/sections/WhyChooseUs";
 import { HowItWorks } from "@/components/sections/HowItWorks";
 import { CTASection } from "@/components/sections/CTASection";
 import { AboutReviews } from "@/components/sections/ReviewSection";
+import { GuestTravelMoments } from "@/components/sections/GuestTravelMoments";
 export const metadata: Metadata = pageMetadata(
   "About Lanka Explorer",
   "Learn about Lanka Explorer’s approach to private transportation and personalized travel in Sri Lanka.",
@@ -38,15 +39,11 @@ export default function AboutPage() {
             vehicle arrangements and activity availability should always be
             confirmed in your individual quote.
           </p>
-          <p>
-            <strong>Before publishing:</strong> Replace this introductory copy
-            with your real business history, team details, verified licences and
-            any credentials you want to feature.
-          </p>
         </div>
       </section>
       <WhyChooseUs />
       <HowItWorks />
+      <GuestTravelMoments />
       <CTASection />
       <AboutReviews />
     </>
